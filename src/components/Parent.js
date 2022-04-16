@@ -1,10 +1,14 @@
-import React from "react";
+import React, {useEffect} from "react";
 import Home from "./Home.js";
 import NavBar from "./NavBar.js";
 import Experience from "./Experience.js";
 import {BrowserRouter} from "react-router-dom";
 
 export default function Parent() {
+    useEffect(() => {
+        document.title = "Dharit Tantiviramanond"
+     }, []);
+
     return (<>
     <BrowserRouter>
     <div className="bg-zinc-800 h-full">

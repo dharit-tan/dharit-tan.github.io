@@ -23,7 +23,7 @@
     "build:css": "npx tailwindcss build -i src/main.css -o src/output.css",
     "watch": "watch 'npm run build:css' ./src",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -b master -d build"
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
