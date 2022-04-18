@@ -26,7 +26,7 @@ export default function Home(props) {
         My previous working experience includes Pure Storage, a flash storage company in Mountain View, California. There I was a member of the IO Path team, where I was responsible for optimizing the read and write speeds to our flash products. Prior to that I completed an internship at Tintri Inc, a hybrid flash startup, so my experience is mostly in systems engineering.
         </p>
         <p className="my-6 font-normal text-white">
-        However, I think I'm ready to try a different area of programming - full-stack web development. I've been teaching myself React and node.js recently and I love it! I'm excited to start a career in this domain.  
+        However, I think I'm ready to try my hand at a different area of programming. I'm open to most things as long as there are exciting problems and good people, but I've been teaching myself React and node.js recently and I love it!
         </p>
         </div>
         </div>

@@ -24,7 +24,7 @@ export default function NavBar() {
     <div className="px-10 py-6 w-full bg-white">
     <div className="flex justify-between items-center lg:mr-20">
         <div>
-            <h3 className="text-sm font-semibold md:text-xl text-blue-500">Dharit (Reed) Tantiviramanond</h3>
+            <h3 className="text-sm font-semibold md:text-xl ml-20 text-blue-500">Dharit (Reed) Tantiviramanond</h3>
         </div>
         <div className="hidden space-x-8 lg:flex">
             <NavLink className="text-md font-medium" to="#experience">Experience</NavLink>
