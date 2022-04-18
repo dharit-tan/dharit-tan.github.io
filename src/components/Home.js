@@ -13,6 +13,9 @@ export default function Home(props) {
         <div className="my-10">
             <h1 className="text-2xl text-slate-500 text-center">Dharit (Reed) Tantiviramanond</h1>
         </div>
+        <div className="my-10">
+            <h1 className="text-xl text-slate-500 text-center">Software Engineer</h1>
+        </div>
         </div>
         <div className="flex px-6 items-center lg:col-span-2">
         <div>
